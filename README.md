@@ -63,7 +63,7 @@ Simply download it and unzip it in the `data/` folder and make sure the folder i
 
 ## To test the code runs
 Our full dataset contains 3D shapes file *.obj, SDF samples *.npz and sketch files for 6778 chairs. 
-Beacause our dataset is large (124GB), we provide a smaller dataset (800MB, 40 shapes, 30 as trainset and 10 as testset) only for test the code runs.
+Beacause our dataset is large (124GB), we provide a [smaller dataset](https://drive.google.com/file/d/1KVO5JIkVGMg98w_uuWiDzr_nF2bKDsz7/view?usp=sharing) (800MB, 40 shapes, 30 as trainset and 10 as testset) only for test the code runs.
 
 
 ## Single-view reconstruction
